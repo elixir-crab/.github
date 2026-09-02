@@ -10,7 +10,7 @@ platform mechanics and performance-sensitive work.
 
 | Project | What it does | Hex |
 | --- | --- | --- |
-| [gpui](https://github.com/elixir-crab/gpui) | Declarative native desktop UI for Elixir/OTP, with GPUI windows, HEEx-style views, native controls, testing, and remote displays | Release candidate in preparation |
+| [gpui](https://github.com/elixir-crab/gpui) | Declarative native desktop UI for Elixir/OTP, with GPUI windows, HEEx-style views, native controls, testing, and remote displays | [![Hex](https://img.shields.io/hexpm/v/gpui.svg)](https://hex.pm/packages/gpui) |
 | [rustq](https://github.com/elixir-crab/rustq) | Typed Rust and Rustler code generation from Elixir, including quasiquoting, ASTs, and generated NIF boundaries | [![Hex](https://img.shields.io/hexpm/v/rustq.svg)](https://hex.pm/packages/rustq) |
 
 ## How it fits together
